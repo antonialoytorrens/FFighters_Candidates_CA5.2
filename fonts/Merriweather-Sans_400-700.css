@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: "Merriweather-Sans_400.ttf" format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: "Merriweather-Sans_700.ttf" format('truetype');
+}
