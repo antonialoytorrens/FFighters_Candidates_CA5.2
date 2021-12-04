@@ -1,0 +1,1 @@
+Note for Antoni Aloy Torrens: bootstrap-icons-1.5.0.css uses a patch in font face to fetch fonts from local machine. Please consider applying the same modifications before migrating to a new version.
