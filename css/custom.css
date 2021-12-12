@@ -1,3 +1,41 @@
 .text-justify {
-	text-align: justify;
+    text-align: justify;
+}
+
+.page-section {
+    min-height: 100vh;
+}
+
+header.masthead {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/cover.jpg");
+    background-size: cover;
+}
+
+.history-background-image {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/history.jpg");
+    background-size: cover;
+}
+
+.context-background-image {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/context.jpg");
+    background-size: cover;
+}
+
+.solutions-background-image {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/solutions.jpg");
+    background-size: cover;
+}
+
+.voteus-background-image {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/voteus.jpg");
+    background-size: cover;
+}
+
+footer .list-group-item {
+    border: 0;
+    background-color: #f8f9fa;
+}
+
+footer span {
+    font-size: small;
 }
